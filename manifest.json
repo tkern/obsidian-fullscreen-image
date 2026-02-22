@@ -1,0 +1,9 @@
+{
+  "id": "image-fullscreen",
+  "name": "Image Fullscreen",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Click on any image in Live Preview to view it fullscreen with zoom and pan support.",
+  "author": "Thomas",
+  "isDesktopOnly": false
+}
